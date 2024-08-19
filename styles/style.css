@@ -15,7 +15,7 @@
 .page {
   min-inline-size: 360px;
   margin: 0;
-  font-family: var(--main-font);
+  font-family: var(--main-font), sans-serif;
   background-color: var(--bg-color);
   color: var(--text-color);
 }
